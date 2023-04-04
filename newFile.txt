@@ -1,1 +1,2 @@
 새로운 브랜치에서 시행하는 첫번째 수정
+Second modification which commits to new branch.
